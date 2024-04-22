@@ -1,6 +1,6 @@
 # EMNLP Papers 2023
 
-- Theory of Mind for Multi-Agent Collaboration via Large Language Models;
+- [Theory of Mind for Multi-Agent Collaboration via Large Language Models](ufal-waterloo/emnlp-papers/Theory of Mind.pdf);
 - GPTAraEval: A Comprehensive Evaluation of ChatGPT on Arabic NLP;
 - Evaluating Object Hallucination in Large Vision-Language Models;
 - Continually Improving Extractive QA via Human Feedback;
