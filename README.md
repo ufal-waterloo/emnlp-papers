@@ -1,11 +1,11 @@
 # EMNLP Papers 2023
 
-- [Theory of Mind for Multi-Agent Collaboration via Large Language Models](emnlp-papers/Theory-of-Mind.pdf);
-- [GPTAraEval: A Comprehensive Evaluation of ChatGPT on Arabic NLP](emnlp-papers/GPTAraEval.pdf);
-- [Evaluating Object Hallucination in Large Vision-Language Models](emnlp-papers/ufal-waterloo/emnlp-papers/Object-Hallucination.pdf);
-- [Continually Improving Extractive QA via Human Feedback](emnlp-papers/Improving-Extractive-QA.pdf);
-- [Using Interpretation Methods for Model Enhancement](emnlp-papers/Interpretation-Methods.pdf);
-- [Diversity Enhanced Narrative Question Generation for Storybooks](emnlp-papers/Storybooks.pdf);
+- [Theory of Mind for Multi-Agent Collaboration via Large Language Models](Theory-of-Mind.pdf);
+- [GPTAraEval: A Comprehensive Evaluation of ChatGPT on Arabic NLP](GPTAraEval.pdf);
+- [Evaluating Object Hallucination in Large Vision-Language Models](Object-Hallucination.pdf);
+- [Continually Improving Extractive QA via Human Feedback](Improving-Extractive-QA.pdf);
+- [Using Interpretation Methods for Model Enhancement](Interpretation-Methods.pdf);
+- [Diversity Enhanced Narrative Question Generation for Storybooks](Storybooks.pdf);
 - HalOmi: A Manually Annotated Benchmark for Multilingual Hallucination and Omission Detection in Machine Translation;
 - Analyzing Norm Violations in Live-Stream Chat;
 - Large Language Models Can Self-Improve;
