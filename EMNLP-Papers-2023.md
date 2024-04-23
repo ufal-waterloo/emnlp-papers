@@ -9,7 +9,7 @@
 - [SLOG: A Structural Generalization Benchmark for Semantic Parsing](SLOG.pdf)
 - [COHESENTIA: A Novel Benchmark of Incremental versus Holistic Assessment of Coherence in Generated Texts](CoheSentia.pdf)
 - [SciRepEval: A Multi-Format Benchmark for Scientific Document Representations](SciRepEval.pdf)
-- The BLA Benchmark: Investigating Basic Language Abilities of Pre-Trained Multimodal Models;
+- [The BLA Benchmark: Investigating Basic Language Abilities of Pre-Trained Multimodal Models](BLA.pdf)
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models;
 - AD-NLP: A Benchmark for Anomaly Detection in Natural Language Processing;
 - Doolittle: Benchmarks and Corpora for Academic Writing Formalization;
