@@ -3,7 +3,7 @@
 ## Benchmark 
 
 - [HalOmi: A Manually Annotated Benchmark for Multilingual Hallucination and Omission Detection in Machine Translation](HalOmi.pdf)
-- Evaluating Cross-Domain Text-to-SQL Models and Benchmarks;
+- [Evaluating Cross-Domain Text-to-SQL Models and Benchmarks](Text-to-SQL.pdf)
 - OpenAsp: A Benchmark for Multi-document Open Aspect-based Summarization;
 - API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs;
 - SLOG: A Structural Generalization Benchmark for Semantic Parsing;
