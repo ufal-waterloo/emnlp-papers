@@ -20,7 +20,7 @@
 ## Bias 
 
 - [``Fifty Shades of Bias’’: Normative Ratings of Gender Bias in GPT Generated English Text](Fifty-Shades-of-Bias.pdf)
-- ROBBIE: Robust Bias Evaluation of Large Generative Language Models;
+- [ROBBIE: Robust Bias Evaluation of Large Generative Language Models](ROBBIE.pdf)
 - A Rose by Any Other Name would not Smell as Sweet: Social Bias in Names Mistranslation;
 - Towards Building More Robust NER datasets: An Empirical Study on NER Dataset Bias from a Dataset Difficulty View;
 - Cross-lingual Transfer Can Worsen Bias in Sentiment Analysis;
