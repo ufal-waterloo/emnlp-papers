@@ -15,7 +15,7 @@
 - [Doolittle: Benchmarks and Corpora for Academic Writing Formalization](Doolittle.pdf)
 - [BLESS: Benchmarking Large Language Models on Sentence Simplification](BLESS.pdf)
 - [AfriSenti: A Twitter Sentiment Analysis Benchmark for African Languages](AfriSenti.pdf)
-- [GlobalBench: A Benchmark for Global Progress in Natural Language Processing](GlobalBench)
+- [GlobalBench: A Benchmark for Global Progress in Natural Language Processing](GlobalBench.pdf)
 
 ## Bias 
 
