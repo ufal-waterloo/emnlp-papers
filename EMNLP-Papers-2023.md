@@ -5,7 +5,7 @@
 - [HalOmi: A Manually Annotated Benchmark for Multilingual Hallucination and Omission Detection in Machine Translation](HalOmi.pdf)
 - [Evaluating Cross-Domain Text-to-SQL Models and Benchmarks](Text-to-SQL.pdf)
 - [OpenAsp: A Benchmark for Multi-document Open Aspect-based Summarization](OpenASP.pdf)
-- API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs;
+- [API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs](API-Bank.pdf)
 - SLOG: A Structural Generalization Benchmark for Semantic Parsing;
 - COHESENTIA: A Novel Benchmark of Incremental versus Holistic Assessment of Coherence in Generated Texts;
 - SciRepEval: A Multi-Format Benchmark for Scientific Document Representations;
