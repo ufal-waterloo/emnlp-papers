@@ -2,7 +2,7 @@
 
 ## Benchmark 
 
-- HalOmi: A Manually Annotated Benchmark for Multilingual Hallucination and Omission Detection in Machine Translation;
+- [HalOmi: A Manually Annotated Benchmark for Multilingual Hallucination and Omission Detection in Machine Translation](HalOmi.pdf)
 - Evaluating Cross-Domain Text-to-SQL Models and Benchmarks;
 - OpenAsp: A Benchmark for Multi-document Open Aspect-based Summarization;
 - API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs;
