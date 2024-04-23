@@ -24,7 +24,7 @@
 - [A Rose by Any Other Name would not Smell as Sweet: Social Bias in Names Mistranslation](Social-Bias.pdf)
 - [Towards Building More Robust NER datasets: An Empirical Study on NER Dataset Bias from a Dataset Difficulty View](Robust-NER-Datasets.pdf)
 - [Cross-lingual Transfer Can Worsen Bias in Sentiment Analysis](Sentiment-Analysis.pdf)
-- Multilingual Holistic Bias: Extending Descriptors and Patterns to Unveil Demographic Biases in Languages at Scale;
+- [Multilingual Holistic Bias: Extending Descriptors and Patterns to Unveil Demographic Biases in Languages at Scale](Multilingual-Holistic-Bias.pdf)
 - Target-Agnostic Gender-Aware Contrastive Learning for Mitigating Bias in Multilingual Machine Translation;
 - [Diversity Enhanced Narrative Question Generation for Storybooks](Storybooks.pdf);  
 
