@@ -12,7 +12,7 @@
 - [The BLA Benchmark: Investigating Basic Language Abilities of Pre-Trained Multimodal Models](BLA.pdf)
 - [HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models](HaluEval.pdf)
 - [AD-NLP: A Benchmark for Anomaly Detection in Natural Language Processing](AD-NLP.pdf)
-- Doolittle: Benchmarks and Corpora for Academic Writing Formalization;
+- [Doolittle: Benchmarks and Corpora for Academic Writing Formalization](Doolittle.pdf)
 - BLESS: Benchmarking Large Language Models on Sentence Simplification;
 - AfriSenti: A Twitter Sentiment Analysis Benchmark for African Languages;
 - GlobalBench: A Benchmark for Global Progress in Natural Language Processing.
